@@ -1,0 +1,14 @@
+# Credenciales y datos de trabajo privados
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets/
+datos-privados/
+contactos/
+conversaciones/
+node_modules/
+__pycache__/
+.DS_Store
